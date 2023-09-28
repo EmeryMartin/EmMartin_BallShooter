@@ -8,6 +8,8 @@ TagManager:
   - Goal
   - StartPos
   - LevelInfo
+  - Ground
+  - speedBoost
   layers:
   - Default
   - TransparentFX
